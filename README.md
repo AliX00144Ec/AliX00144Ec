@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ali Attia | @AliX00144Ec
+# 👋 Hi, I'm Ali Attia | @iamaliatia
 
 ### 🚀 Full-Stack Developer & Python Automation Specialist 🌌
 
@@ -28,8 +28,8 @@ I am a self-taught developer who believes that constraints are the birthplace of
 ---
 
 ## 📫 Connect with me
-- **Email:** alix00144ec@gmail.com
-- **GitHub:** [AliX00144Ec](https://github.com/AliX00144Ec)
+- **Email:** IamAliatia2001@gmail.com
+- **GitHub:** [iamaliatia](https://github.com/iamaliatia)
 - **Location:** Taounate / Fes, Morocco
 
 > "Programming isn't just about syntax; it's about architecting a reality that matches our inner vision of logic and integrity."
